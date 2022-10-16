@@ -1,0 +1,1 @@
+Analog Clock is a great exercise for your javascript skills. So I decided to build one. This project is using Vanilla Javascript DOM Manipulation to allow transitions animation.
